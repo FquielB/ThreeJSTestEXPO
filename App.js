@@ -3,7 +3,6 @@ import { StyleSheet, Text, View } from 'react-native';
 import * as THREE from 'three';
 import { Renderer } from 'expo-three';
 import { ExpoWebGLRenderingContext, GLView } from 'expo-gl';
-//MORETESTING
 
 global.THREE = global.THREE || THREE;
 
